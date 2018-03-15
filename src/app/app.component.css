@@ -1,0 +1,16 @@
+.upper-body {
+    background-color: #ff4245;
+    height: 35vh;
+    width: 100%;
+}
+
+.lower-body {
+    background-color: #f6f7f8;
+    height: 65vh;
+    width: 100%;
+}
+
+.photo-container {
+    text-align: center;
+    margin-top: -12vh;
+}
